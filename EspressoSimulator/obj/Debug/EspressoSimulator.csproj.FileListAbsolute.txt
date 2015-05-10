@@ -1,0 +1,6 @@
+c:\users\ivl\documents\visual studio 2013\Projects\EspressoSimulator\EspressoSimulator\bin\Debug\EspressoSimulator.exe.config
+C:\Users\ivl\documents\visual studio 2013\Projects\EspressoSimulator\EspressoSimulator\obj\Debug\EspressoSimulator.csprojResolveAssemblyReference.cache
+C:\Users\ivl\documents\visual studio 2013\Projects\EspressoSimulator\EspressoSimulator\bin\Debug\EspressoSimulator.exe
+C:\Users\ivl\documents\visual studio 2013\Projects\EspressoSimulator\EspressoSimulator\bin\Debug\EspressoSimulator.pdb
+C:\Users\ivl\documents\visual studio 2013\Projects\EspressoSimulator\EspressoSimulator\obj\Debug\EspressoSimulator.exe
+C:\Users\ivl\documents\visual studio 2013\Projects\EspressoSimulator\EspressoSimulator\obj\Debug\EspressoSimulator.pdb
