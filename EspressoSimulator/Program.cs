@@ -402,8 +402,8 @@ namespace EspressoSimulator
 
                 Func<int> inBusyMode = () =>
                 {
-                    
-                    return  (60 * 60 * 2);
+
+                    return simulationTimeInBusyMode;
                 };
 
                 
